@@ -32,7 +32,7 @@ a:has(#upgradeArrow) {
 /* Fix the nav icons */
 #hs-vertical-nav-root button svg,
 #hs-vertical-nav-root a svg {
-	stroke: #000;
+  stroke: #000;
 }
 ```
 3. Profit
